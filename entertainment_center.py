@@ -25,5 +25,5 @@ life_is_beautiful = media.Movie("Life is Beautiful",
 # create a list with the favorite movies
 movies = [godfather, das_boot, life_is_beautiful]
 
-# call fresh_tomatoes to display it in a web browser
+# call fresh_tomatoes to display favorite movies in a web browser
 fresh_tomatoes.open_movies_page(movies)

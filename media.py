@@ -1,5 +1,5 @@
 class Movie():
-	# Movie class for objects holding datails about movies (like title, poster image url, trailer url etc.)
+	# Movie class for objects holding details about movies (like title, poster image url, trailer url etc.)
 
 	def __init__(self, movie_title, movie_storyline, poster_image, details_url, trailer_youtube):
 		self.title = movie_title
